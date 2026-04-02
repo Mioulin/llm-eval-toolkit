@@ -153,5 +153,5 @@ PLOS Computational Biology.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/zalinadezhina) · dezhina@gmail.com  
+[LinkedIn](https://linkedin.com/in/zalina-dezhina) · dezhina@gmail.com  
 *Open to AI Research Scientist, LLM Evaluation, and Senior ML Engineer roles.*
