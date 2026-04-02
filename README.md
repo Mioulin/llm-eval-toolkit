@@ -122,7 +122,7 @@ math_003     | math_reasoning           | hard
 
 ## Methodology Background
 
-This toolkit emerged from evaluation work at Mercor where I designed and executed
+This toolkit emerged from my work where I designed and executed
 adversarial STEM evaluation tasks for frontier AI systems. The four categories
 reflect the failure modes I observed most consistently across GPT-4-class and
 Claude-class models when tasked with scientific and quantitative reasoning.
