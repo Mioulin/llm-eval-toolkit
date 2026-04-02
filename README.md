@@ -8,6 +8,13 @@ sdk_version: "4.40.0"
 app_file: app.py
 pinned: true
 short_description: Adversarial evaluation toolkit for frontier language models
+tags:
+  - llm-evaluation
+  - rlhf
+  - hallucination-detection
+  - chain-of-thought
+  - bayesian
+  - benchmark
 ---
 
 
