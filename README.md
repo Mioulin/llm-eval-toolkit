@@ -4,7 +4,6 @@ title: LLM Reasoning Evaluator
 sdk: gradio
 colorFrom: blue
 colorTo: indigo
-sdk_version: "4.40.0"
 app_file: app.py
 pinned: true
 short_description: Adversarial evaluation toolkit for frontier language models
