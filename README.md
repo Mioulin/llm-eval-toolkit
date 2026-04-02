@@ -12,7 +12,7 @@ short_description: Adversarial evaluation toolkit for frontier language models
 
 
 Built by **Zalina Dezhina, PhD** — AI Evaluation Scientist  
-*Methodology developed at Mercor for frontier AI systems (GPT-4, Claude, Gemini class).*
+*Methodology developed for frontier AI systems (GPT-4, Claude, Gemini class).*
 
 ---
 
